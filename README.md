@@ -18,3 +18,4 @@ The **Simple Interest Calculator** is a Bash script that helps users calculate t
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/username/simple-interest.git
+hello world
